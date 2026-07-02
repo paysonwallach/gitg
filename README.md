@@ -1,6 +1,6 @@
 # Gitg
 
-<a href="https://flathub.org/apps/details/org.gnome.gitg"><img height="51" alt="Download on Flathub" src="https://flathub.org/assets/badges/flathub-badge-en.svg"/> </a>
+<a href="https://flathub.org/apps/details/org.gnome.gitg"><img height="51" alt="Download on Flathub" src="https://flathub.org/api/badge?svg&locale=en"/> </a>
 
 gitg is a graphical user interface for git. It aims at being a small, fast and convenient tool to visualize the history of git repositories.  Besides visualization, gitg also provides several utilities to manage your repository and commit your work.
 
