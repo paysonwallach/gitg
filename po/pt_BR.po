@@ -12,17 +12,17 @@
 # Matheus Barbosa <mdpb.matheus@gmail.com>, 2022.
 # Fúlvio Leo <fulviokaldas@outlook.com>, 2024.
 # Juliano de Souza Camargo <julianosc@pm.me>, 2025.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2013-2026.
 # Rafael Coelho Costa <coelho38r@proton.me>, 2026.
 # Luiggi R. Cardoso <luiggicardoso@outlook.com>, 2026.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2013-2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gitg\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gitg/issues\n"
 "POT-Creation-Date: 2026-07-01 20:03+0000\n"
-"PO-Revision-Date: 2026-07-03 21:37-0300\n"
-"Last-Translator: Luiggi R. Cardoso <luiggicardoso@outlook.com>\n"
+"PO-Revision-Date: 2026-07-11 22:41-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <https://br.gnome.org/traducao/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr ""
 "X-DL-Module: gitg\n"
 "X-DL-Branch: master\n"
 "X-DL-Domain: po\n"
-"X-DL-State: None\n"
+"X-DL-State: Translating\n"
 "X-DL-VCS-Web: https://gitlab.gnome.org/GNOME/gitg/\n"
 "X-DL-Lang: pt_BR\n"
 
@@ -172,11 +172,11 @@ msgstr ""
 
 #: data/org.gnome.gitg.gschema.xml.in:106
 msgid "visible columns about a commit by default"
-msgstr "colunas visiveis sobre um commit por padrão"
+msgstr "colunas visíveis sobre um commit por padrão"
 
 #: data/org.gnome.gitg.gschema.xml.in:107
 msgid "Default visible columns about commit."
-msgstr "Colunas visiveis padrão sobre o commit."
+msgstr "Colunas visíveis padrão sobre o commit."
 
 #: data/org.gnome.gitg.gschema.xml.in:113
 msgid "Show column headers on history view."
@@ -2041,7 +2041,7 @@ msgstr "Push inteligente. Determina os parâmetros para a ação de push"
 
 #: gitg/resources/ui/gitg-preferences-general.ui:69
 msgid "Default visible columns"
-msgstr "Colunas visiveis padrão"
+msgstr "Colunas visíveis padrão"
 
 #: gitg/resources/ui/gitg-preferences-general.ui:101
 msgid "Default show column headers"
@@ -2369,7 +2369,7 @@ msgstr "Altera para a atividade"
 #: gitg/resources/ui/gitg-shortcuts.ui:125
 msgctxt "shortcut window"
 msgid "Commit Activity"
-msgstr "Atividade de commmit"
+msgstr "Atividade de commit"
 
 #: gitg/resources/ui/gitg-shortcuts.ui:130
 msgctxt "shortcut window"
